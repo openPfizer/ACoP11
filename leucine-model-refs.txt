@@ -1,18 +1,6 @@
 # Leucine Model References
 
-1. Rieger et al. 2011.
-2. 
-3. 
-4.
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12
-13.
-14.
-15.
-16.
+1. Tessari et al. Am J Physio.1986 https://pubmed.ncbi.nlm.nih.gov/3529984/
+2. Hagenfeldt et al. Clin Sci (Lond). 1980 https://pubmed.ncbi.nlm.nih.gov/7428288/
+3. Sherwin. J Clin Invest. 1978 https://pubmed.ncbi.nlm.nih.gov/659610/
+4. Schauder. J Lab Clin Med. 1985 https://pubmed.ncbi.nlm.nih.gov/4067381/
